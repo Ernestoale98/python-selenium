@@ -32,7 +32,7 @@ class HellowWorld(unittest.TestCase):
         cls.driver.quit()
 
 if __name__ == "__main__":
-    unittest.main(verbosity=2,testRunner=HTMLTestRunner(output='reeportes',report_name='hello_wordl_report'))
+    unittest.main(verbosity=2,testRunner=HTMLTestRunner(output='reportes',report_name='hello_wordl_report'))
 
 
 #Para correr las pruebas en una solo ventana de Chrome
