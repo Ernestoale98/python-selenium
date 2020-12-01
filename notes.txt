@@ -1,0 +1,11 @@
+Assertions
+
+Metodos que permiten validar un valor esperado en la
+ejecucion del test
+
+
+Test suites
+
+Coleccion de test unificados en una sola prueba,permitiendo
+tener resultados grupales e indib¡viduales
+Se ejecuta de manera secuencial
